@@ -17,10 +17,7 @@ It’s a static frontend implementation perfect for demo purposes, and can later
 
 ---
 
-## 📸 Demo
 
-👉 [Add GitHub Pages link or deployment link if available]  
-🎥 _[Optional: Add demo video or screen recording here]_
 
 ---
 
